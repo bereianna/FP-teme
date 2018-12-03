@@ -1,0 +1,7 @@
+D:\Documents\Panni\universirate\GIT-Oros\vector\vector\bin\Debug\vector.exe.config
+D:\Documents\Panni\universirate\GIT-Oros\vector\vector\bin\Debug\vector.exe
+D:\Documents\Panni\universirate\GIT-Oros\vector\vector\bin\Debug\vector.pdb
+D:\Documents\Panni\universirate\GIT-Oros\vector\vector\obj\Debug\vector.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\GIT-Oros\vector\vector\obj\Debug\vector.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\GIT-Oros\vector\vector\obj\Debug\vector.exe
+D:\Documents\Panni\universirate\GIT-Oros\vector\vector\obj\Debug\vector.pdb
