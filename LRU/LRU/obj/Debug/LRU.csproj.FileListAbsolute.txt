@@ -1,0 +1,7 @@
+D:\Documents\Panni\universirate\Ion\LRU\LRU\bin\Debug\LRU.exe.config
+D:\Documents\Panni\universirate\Ion\LRU\LRU\bin\Debug\LRU.exe
+D:\Documents\Panni\universirate\Ion\LRU\LRU\bin\Debug\LRU.pdb
+D:\Documents\Panni\universirate\Ion\LRU\LRU\obj\Debug\LRU.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\Ion\LRU\LRU\obj\Debug\LRU.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Ion\LRU\LRU\obj\Debug\LRU.exe
+D:\Documents\Panni\universirate\Ion\LRU\LRU\obj\Debug\LRU.pdb
