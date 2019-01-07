@@ -1,0 +1,7 @@
+D:\Documents\Panni\universirate\GIT-Oros\matrice\matrice\bin\Debug\matrice.exe.config
+D:\Documents\Panni\universirate\GIT-Oros\matrice\matrice\bin\Debug\matrice.exe
+D:\Documents\Panni\universirate\GIT-Oros\matrice\matrice\bin\Debug\matrice.pdb
+D:\Documents\Panni\universirate\GIT-Oros\matrice\matrice\obj\Debug\matrice.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\GIT-Oros\matrice\matrice\obj\Debug\matrice.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\GIT-Oros\matrice\matrice\obj\Debug\matrice.exe
+D:\Documents\Panni\universirate\GIT-Oros\matrice\matrice\obj\Debug\matrice.pdb
