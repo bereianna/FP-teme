@@ -1,0 +1,7 @@
+D:\Documents\Panni\universirate\Algebra\Algebra\obj\Debug\Algebra.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\Algebra\Algebra\obj\Debug\Algebra.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Algebra\Algebra\bin\Debug\Algebra.exe.config
+D:\Documents\Panni\universirate\Algebra\Algebra\bin\Debug\Algebra.exe
+D:\Documents\Panni\universirate\Algebra\Algebra\bin\Debug\Algebra.pdb
+D:\Documents\Panni\universirate\Algebra\Algebra\obj\Debug\Algebra.exe
+D:\Documents\Panni\universirate\Algebra\Algebra\obj\Debug\Algebra.pdb
